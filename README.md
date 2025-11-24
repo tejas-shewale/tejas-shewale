@@ -58,29 +58,6 @@ Java Servlets + JSP based HMS with secure login and doctor management.
 
 ---
 
-## 📊 GitHub Analytics (Modern Theme)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejas-shewale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-shewale&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejas-shewale&theme=react&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejas-shewale&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-shewale">
