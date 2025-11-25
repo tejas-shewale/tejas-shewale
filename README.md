@@ -46,6 +46,13 @@ I focus on:
 
 ## 📌 Featured Projects
 
+### 💼 **Job Portal – Recruiter & Candidate Platform**
+A full-featured job portal built with **React + Supabase + Clerk**  
+✔ Recruiter → Post Jobs, Manage Applications  
+✔ Candidate → Apply, Save Jobs, Track Status  
+✔ Real-time updates, drawers, forms, validations  
+🔗 **Project Link:** https://github.com/tejas-shewale/job-portal-react  
+
 ### 🚀 **QuizSprint – Online Examination System**
 Role-based exam portal with quizzes, scoring, and admin controls.  
 🔗 https://github.com/tejas-shewale/QuizSprint
