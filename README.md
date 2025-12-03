@@ -143,4 +143,6 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 ### ✨ Thanks for visiting! Feel free to explore my repositories. ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" />
+
+</div>
