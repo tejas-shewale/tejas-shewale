@@ -120,7 +120,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 <div align="center">
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 25px;">
+<div style="gap: 10px; flex-wrap: wrap; margin-top: 25px;">
 
   <!-- LinkedIn Card -->
   <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank" style="
@@ -130,9 +130,6 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     border: 1px solid #e5e7eb;
     background: white;
     text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     gap: 12px;
   ">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
@@ -147,9 +144,6 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     border: 1px solid #e5e7eb;
     background: white;
     text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     gap: 12px;
   ">
     <img src="https://skillicons.dev/icons?i=github" width="55" />
@@ -164,9 +158,6 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     border: 1px solid #e5e7eb;
     background: white;
     text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     gap: 12px;
   ">
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
