@@ -120,53 +120,52 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 <div align="center">
 
-<div style="gap: 10px; flex-wrap: wrap; margin-top: 25px;">
+<div style="
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 30px; 
+  margin-top: 20px;
+  flex-wrap: wrap;
+">
 
-  <!-- LinkedIn Card -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank" style="
-    width: 160px;
-    padding: 20px;
-    border-radius: 18px;
-    border: 1px solid #e5e7eb;
-    background: white;
     text-decoration: none;
-    gap: 12px;
   ">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-    
+    <img 
+      src="https://skillicons.dev/icons?i=linkedin" 
+      width="70" 
+      style="border-radius: 14px;" 
+    />
   </a>
 
-  <!-- GitHub Card -->
+  <!-- GitHub -->
   <a href="https://github.com/tejas-shewale" target="_blank" style="
-    width: 160px;
-    padding: 20px;
-    border-radius: 18px;
-    border: 1px solid #e5e7eb;
-    background: white;
     text-decoration: none;
-    gap: 12px;
   ">
-    <img src="https://skillicons.dev/icons?i=github" width="55" />
-    
+    <img 
+      src="https://skillicons.dev/icons?i=github" 
+      width="70" 
+      style="border-radius: 14px;" 
+    />
   </a>
 
-  <!-- Gmail Card -->
-  <a href="mailto:shewaletejas55@gmail.com" style="
-    width: 160px;
-    padding: 20px;
-    border-radius: 18px;
-    border: 1px solid #e5e7eb;
-    background: white;
+  <!-- Gmail -->
+  <a href="mailto:shewaletejas55@gmail.com" target="_blank" style="
     text-decoration: none;
-    gap: 12px;
   ">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
-    
+    <img 
+      src="https://skillicons.dev/icons?i=gmail" 
+      width="70" 
+      style="border-radius: 14px;" 
+    />
   </a>
 
 </div>
 
 </div>
+
 
 
 ---
