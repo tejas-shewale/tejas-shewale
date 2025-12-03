@@ -130,7 +130,50 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 ">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank_
+  <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank" style="
+    padding: 14px 22px;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    text-decoration: none;
+    font-weight: 600;
+    color: #0A66C2;
+    background: #f8fafc;
+  ">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="24" style="vertical-align: middle; margin-right: 8px;" />
+    LinkedIn
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/tejas-shewale" target="_blank" style="
+    padding: 14px 22px;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    text-decoration: none;
+    font-weight: 600;
+    color: #000000;
+    background: #f8fafc;
+  ">
+    <img src="https://skillicons.dev/icons?i=github" width="24" style="vertical-align: middle; margin-right: 8px;" />
+    GitHub
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:shewaletejas55@gmail.com" style="
+    padding: 14px 22px;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    text-decoration: none;
+    font-weight: 600;
+    color: #EA4335;
+    background: #f8fafc;
+  ">
+    <img src="https://skillicons.dev/icons?i=gmail" width="24" style="vertical-align: middle; margin-right: 8px;" />
+    Email
+  </a>
+
+</div>
+
+</div>
 
 ---
 
