@@ -67,63 +67,61 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" style="vertical-align:top;">
-      <h3>💼 Job Portal Platform</h3>
-      <p>A full-featured job portal for recruiters & candidates using <b>React, Supabase & Clerk</b>.</p>
-      <ul>
-        <li>Recruiters → Post & Manage Jobs</li>
-        <li>Candidates → Apply, Save, Track Jobs</li>
-        <li>Modern UI • Drawers • Forms • Validations</li>
-      </ul>
-      <a href="https://github.com/tejas-shewale/job-portal-react">
-        🔗 View Project
-      </a>
-    </td>
+<!-- Project Cards Wrapper -->
+<div style="display: flex; flex-direction: column; gap: 20px; width: 100%; max-width: 900px;">
 
-    <td width="50%" style="vertical-align:top;">
-      <h3>🚀 QuizSprint – Online Examination</h3>
-      <p>Role-based exam portal using <b>Angular + Spring Boot</b>.</p>
-      <ul>
-        <li>Admin & User System</li>
-        <li>Quiz & Question Management</li>
-        <li>Auto Scoring + Result Processing</li>
-      </ul>
-      <a href="https://github.com/tejas-shewale/QuizSprint">
-        🔗 View Project
-      </a>
-    </td>
-  </tr>
+  <!-- Card 1 -->
+  <div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 12px; text-align: left;">
+    <h3>💼 Job Portal Platform</h3>
+    <p>A full-featured job portal for recruiters & candidates built with <b>React, Supabase & Clerk</b>.</p>
+    <ul>
+      <li>Recruiters → Post & Manage Jobs</li>
+      <li>Candidates → Apply, Save, Track Jobs</li>
+      <li>Modern UI • Drawers • React Hook Form • Zod Validation</li>
+    </ul>
+    <a href="https://github.com/tejas-shewale/job-portal-react"><b>🔗 View Project</b></a>
+  </div>
 
-  <tr>
-    <td width="50%" style="vertical-align:top;">
-      <h3>🛒 RedTape E-Commerce</h3>
-      <p>A modern e-commerce application built with <b>React</b>.</p>
-      <ul>
-        <li>Product Filters + Search</li>
-        <li>Cart, Checkout, Orders</li>
-        <li>Admin Dashboard</li>
-      </ul>
-      🔗 (Coming Soon)
-    </td>
+  <!-- Card 2 -->
+  <div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 12px; text-align: left;">
+    <h3>🚀 QuizSprint – Online Examination System</h3>
+    <p>Role-based exam portal using <b>Angular + Spring Boot</b>.</p>
+    <ul>
+      <li>Admin & User Roles</li>
+      <li>Quiz & Question Management</li>
+      <li>Automated Scoring + Results</li>
+    </ul>
+    <a href="https://github.com/tejas-shewale/QuizSprint"><b>🔗 View Project</b></a>
+  </div>
 
-    <td width="50%" style="vertical-align:top;">
-      <h3>🏥 Hospital Management System</h3>
-      <p>Java Servlet + JSP-based HMS.</p>
-      <ul>
-        <li>Secure Login System</li>
-        <li>Doctor Management</li>
-        <li>Patient Record Management</li>
-      </ul>
-      🔗 (Local Project)
-    </td>
-  </tr>
-</table>
+  <!-- Card 3 -->
+  <div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 12px; text-align: left;">
+    <h3>🛒 RedTape E-Commerce</h3>
+    <p>A modern e-commerce platform using <b>React</b>.</p>
+    <ul>
+      <li>Product Filters & Search</li>
+      <li>Cart • Checkout • Orders</li>
+      <li>Admin Dashboard</li>
+    </ul>
+    <i>🔗 Coming Soon</i>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 12px; text-align: left;">
+    <h3>🏥 Hospital Management System</h3>
+    <p>Java Servlet + JSP based HMS.</p>
+    <ul>
+      <li>Secure Login System</li>
+      <li>Doctor Management</li>
+      <li>Patient Records</li>
+    </ul>
+    <i>🔗 Local Project</i>
+  </div>
 
 </div>
 
----
+</div>
+
 
 ## 🌐 Connect With Me
 
