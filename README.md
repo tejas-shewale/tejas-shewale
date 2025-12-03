@@ -8,12 +8,6 @@
 
 <br/>
 
-<!-- Social Stats -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tejas-shewale&color=6366F1&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/tejas-shewale?label=Followers&style=flat-square&color=6366F1" />
-</p>
-
 </div>
 
 <br/>
@@ -50,7 +44,6 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     <td align="center" width="25%">
       <h4>Database</h4>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-      <p><b>Oracle SQL</b> (Manual Badge)</p>
     </td>
     <td align="center" width="25%">
       <h4>Tools</h4>
@@ -103,7 +96,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
       <li>Cart • Checkout • Orders</li>
       <li>Admin Dashboard</li>
     </ul>
-    <i>🔗 Coming Soon</i>
+    <a href="https://github.com/tejas-shewale/RedTape-E-Commerce-Website"><b>🔗 View Project</b></a>
   </div>
 
   <!-- Card 4 -->
@@ -115,7 +108,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
       <li>Doctor Management</li>
       <li>Patient Records</li>
     </ul>
-    <i>🔗 Local Project</i>
+    <a href="https://github.com/tejas-shewale/Hospital-Management-System"><b>🔗 View Project</b></a>
   </div>
 
 </div>
@@ -127,15 +120,17 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tejas-shewale)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:shewaletejas55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas-shewale)
+<!-- Wrapper -->
+<div style="
+  display: flex; 
+  justify-content: center; 
+  gap: 20px; 
+  flex-wrap: wrap;
+  margin-top: 20px;
+">
 
-</div>
-
-<br/>
-
-<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank_
 
 ---
 
