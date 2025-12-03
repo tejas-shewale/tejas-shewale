@@ -120,57 +120,57 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-top: 25px;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 25px;">
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn Card -->
   <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank" style="
-    padding: 16px 28px; 
-    background: #0A66C2;
-    color: white; 
-    border-radius: 12px; 
-    text-decoration: none; 
-    font-size: 18px; 
-    font-weight: 600; 
-    display: flex; 
+    width: 160px;
+    padding: 20px;
+    border-radius: 18px;
+    border: 1px solid #e5e7eb;
+    background: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
   ">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
-    LinkedIn
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+    <span style="font-size: 18px; font-weight: 600; color:#0A66C2;">LinkedIn</span>
   </a>
 
-  <!-- GitHub -->
+  <!-- GitHub Card -->
   <a href="https://github.com/tejas-shewale" target="_blank" style="
-    padding: 16px 28px; 
-    background: #1F2937;
-    color: white; 
-    border-radius: 12px; 
-    text-decoration: none; 
-    font-size: 18px; 
-    font-weight: 600;
-    display: flex; 
+    width: 160px;
+    padding: 20px;
+    border-radius: 18px;
+    border: 1px solid #e5e7eb;
+    background: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
   ">
-    <img src="https://skillicons.dev/icons?i=github" width="32" />
-    GitHub
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+    <span style="font-size: 18px; font-weight: 600; color:#1F2937;">GitHub</span>
   </a>
 
-  <!-- Email -->
+  <!-- Gmail Card -->
   <a href="mailto:shewaletejas55@gmail.com" style="
-    padding: 16px 28px; 
-    background: #EA4335;
-    color: white; 
-    border-radius: 12px; 
-    text-decoration: none; 
-    font-size: 18px; 
-    font-weight: 600;
-    display: flex; 
+    width: 160px;
+    padding: 20px;
+    border-radius: 18px;
+    border: 1px solid #e5e7eb;
+    background: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
   ">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32" />
-    Email Me
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+    <span style="font-size: 18px; font-weight: 600; color:#EA4335;">Email</span>
   </a>
 
 </div>
