@@ -1,7 +1,18 @@
 <div align="center">
 
-<!-- Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1500&color=4AE3F7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Tejas+Shewale;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Turning+Ideas+Into+Real+Applications+🚀" alt="Typing SVG" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tejas%20Shewale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AE3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Building+Scalable+Applications;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Stats -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tejas-shewale&color=4AE3F7&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tejas-shewale?label=Followers&style=flat-square&color=4AE3F7" alt="followers" />
+</p>
 
 </div>
 
@@ -151,6 +162,6 @@ Java Servlets + JSP based HMS
 
 ### ✨ Thanks for visiting! Feel free to explore my repositories. ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=tejas-shewale&color=4AE3F7&style=for-the-badge&label=PROFILE+VIEWS)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
