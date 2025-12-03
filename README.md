@@ -124,42 +124,25 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
   display: flex; 
   justify-content: center; 
   align-items: center; 
-  gap: 30px; 
+  gap: 40px; 
   margin-top: 20px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap; /* force single row */
+  white-space: nowrap; /* prevent line break */
 ">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank" style="
-    text-decoration: none;
-  ">
-    <img 
-      src="https://skillicons.dev/icons?i=linkedin" 
-      width="70" 
-      style="border-radius: 14px;" 
-    />
+  <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="70" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/tejas-shewale" target="_blank" style="
-    text-decoration: none;
-  ">
-    <img 
-      src="https://skillicons.dev/icons?i=github" 
-      width="70" 
-      style="border-radius: 14px;" 
-    />
+  <a href="https://github.com/tejas-shewale" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="70" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:shewaletejas55@gmail.com" target="_blank" style="
-    text-decoration: none;
-  ">
-    <img 
-      src="https://skillicons.dev/icons?i=gmail" 
-      width="70" 
-      style="border-radius: 14px;" 
-    />
+  <a href="mailto:shewaletejas55@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="70" />
   </a>
 
 </div>
