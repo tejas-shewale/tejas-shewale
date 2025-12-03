@@ -10,8 +10,8 @@
 
 <!-- Social Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=tejas-shewale&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tejas-shewale?label=Followers&style=flat-square&color=6366F1" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=tejas-shewale&color=6366F1&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/tejas-shewale?label=Followers&style=flat-square&color=6366F1" />
 </p>
 
 </div>
@@ -20,129 +20,110 @@
 
 ## 🌟 About Me
 
-I'm a **Full Stack Developer** passionate about building modern, scalable, and user-focused applications. I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, with a strong commitment to writing clean, efficient, and production-ready code.
+I'm a **Full Stack Developer** passionate about building modern, scalable, and user-focused applications.  
+I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love writing clean & maintainable code.
 
 **What I focus on:**
+- 🏗️ Designing clean architectures  
+- 💻 Building full-stack apps  
+- 🎯 Solving real-world problems  
+- 📈 Continuous learning  
 
-- 🏗️ Designing clean architectures
-- 💻 Building full-stack applications
-- 🎯 Solving real-world problems
-- 📈 Continuous learning & improvement
-
-<br/>
+---
 
 ## ⚡ Tech Toolbox
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### **Frontend**
+### 🧩 Frontend • Backend • Database • Tools
 
-![React](https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-1E293B?style=for-the-badge&logo=angular&logoColor=DD0031)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E293B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-</td>
-<td align="center" width="50%">
-
-### **Backend**
-
-![Java](https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E293B?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-1E293B?style=for-the-badge&logo=hibernate&logoColor=59666C)
-![REST API](https://img.shields.io/badge/REST_API-1E293B?style=for-the-badge&logo=api&logoColor=10B981)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### **Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-1E293B?style=for-the-badge&logo=oracle&logoColor=F80000)
-
-</td>
-<td align="center">
-
-### **Tools & IDEs**
-
-![Git](https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-1E293B?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
-![Postman](https://img.shields.io/badge/Postman-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h4>Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,angular,js,ts,tailwind" />
+    </td>
+    <td align="center" width="25%">
+      <h4>Backend</h4>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+    </td>
+    <td align="center" width="25%">
+      <h4>Database</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+      <p><b>Oracle SQL</b> (Manual Badge)</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    </td>
+  </tr>
 </table>
 
-<br/>
+</div>
+
+---
 
 ## 📌 Featured Projects
 
+<div align="center">
+
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" style="vertical-align:top;">
+      <h3>💼 Job Portal Platform</h3>
+      <p>A full-featured job portal for recruiters & candidates using <b>React, Supabase & Clerk</b>.</p>
+      <ul>
+        <li>Recruiters → Post & Manage Jobs</li>
+        <li>Candidates → Apply, Save, Track Jobs</li>
+        <li>Modern UI • Drawers • Forms • Validations</li>
+      </ul>
+      <a href="https://github.com/tejas-shewale/job-portal-react">
+        🔗 View Project
+      </a>
+    </td>
 
-### 💼 Job Portal – Recruiter & Candidate Platform
+    <td width="50%" style="vertical-align:top;">
+      <h3>🚀 QuizSprint – Online Examination</h3>
+      <p>Role-based exam portal using <b>Angular + Spring Boot</b>.</p>
+      <ul>
+        <li>Admin & User System</li>
+        <li>Quiz & Question Management</li>
+        <li>Auto Scoring + Result Processing</li>
+      </ul>
+      <a href="https://github.com/tejas-shewale/QuizSprint">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
 
-A full-featured job portal built with **React + Supabase + Clerk**
+  <tr>
+    <td width="50%" style="vertical-align:top;">
+      <h3>🛒 RedTape E-Commerce</h3>
+      <p>A modern e-commerce application built with <b>React</b>.</p>
+      <ul>
+        <li>Product Filters + Search</li>
+        <li>Cart, Checkout, Orders</li>
+        <li>Admin Dashboard</li>
+      </ul>
+      🔗 (Coming Soon)
+    </td>
 
-**Features:**
-- ✔ Recruiter → Post Jobs, Manage Applications
-- ✔ Candidate → Apply, Save Jobs, Track Status
-- ✔ Real-time updates, drawers, forms, validations
-
-**[View Project →](https://github.com/tejas-shewale/job-portal-react)**
-
-</td>
-<td width="50%">
-
-### 🚀 QuizSprint – Online Examination System
-
-Role-based exam portal with quizzes, scoring, and admin controls.
-
-**Features:**
-- ✔ Multiple user roles
-- ✔ Quiz management system
-- ✔ Automated scoring & results
-
-**[View Project →](https://github.com/tejas-shewale/QuizSprint)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 RedTape E-Commerce Platform
-
-Modern full-stack e-commerce application
-
-**Features:**
-- ✔ Advanced product filters
-- ✔ Shopping cart & checkout
-- ✔ Admin dashboard
-
-</td>
-<td width="50%">
-
-### 🏥 Hospital Management System
-
-Java Servlets + JSP based HMS
-
-**Features:**
-- ✔ Secure login system
-- ✔ Doctor management
-- ✔ Patient records
-
-</td>
-</tr>
+    <td width="50%" style="vertical-align:top;">
+      <h3>🏥 Hospital Management System</h3>
+      <p>Java Servlet + JSP-based HMS.</p>
+      <ul>
+        <li>Secure Login System</li>
+        <li>Doctor Management</li>
+        <li>Patient Record Management</li>
+      </ul>
+      🔗 (Local Project)
+    </td>
+  </tr>
 </table>
 
-<br/>
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -162,6 +143,4 @@ Java Servlets + JSP based HMS
 
 ### ✨ Thanks for visiting! Feel free to explore my repositories. ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&
