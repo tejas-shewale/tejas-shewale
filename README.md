@@ -120,7 +120,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 25px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 25px;">
 
   <!-- LinkedIn Card -->
   <a href="https://www.linkedin.com/in/tejas-shewale" target="_blank" style="
@@ -136,7 +136,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     gap: 12px;
   ">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-    <span style="font-size: 18px; font-weight: 600; color:#0A66C2;">LinkedIn</span>
+    
   </a>
 
   <!-- GitHub Card -->
@@ -153,7 +153,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     gap: 12px;
   ">
     <img src="https://skillicons.dev/icons?i=github" width="55" />
-    <span style="font-size: 18px; font-weight: 600; color:#1F2937;">GitHub</span>
+    
   </a>
 
   <!-- Gmail Card -->
@@ -170,7 +170,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     gap: 12px;
   ">
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
-    <span style="font-size: 18px; font-weight: 600; color:#EA4335;">Email</span>
+    
   </a>
 
 </div>
