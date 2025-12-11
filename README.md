@@ -99,18 +99,6 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
     <a href="https://github.com/tejas-shewale/RedTape-E-Commerce-Website"><b>🔗 View Project</b></a>
   </div>
 
-  <!-- Card 4 -->
-  <div style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 12px; text-align: left;">
-    <h3>🏥 Hospital Management System</h3>
-    <p>Java Servlet + JSP based HMS.</p>
-    <ul>
-      <li>Secure Login System</li>
-      <li>Doctor Management</li>
-      <li>Patient Records</li>
-    </ul>
-    <a href="https://github.com/tejas-shewale/Hospital-Management-System"><b>🔗 View Project</b></a>
-  </div>
-
 </div>
 
 </div>
@@ -124,7 +112,7 @@ I specialize in **Java, Spring Boot, Angular, ReactJS, and SQL**, and I love wri
   display: flex; 
   justify-content: center; 
   align-items: center; 
-  gap: 40px; 
+  gap: 60px; 
   margin-top: 20px;
   flex-wrap: nowrap; /* force single row */
   white-space: nowrap; /* prevent line break */
